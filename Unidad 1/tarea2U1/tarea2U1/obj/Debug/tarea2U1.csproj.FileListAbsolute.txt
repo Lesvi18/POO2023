@@ -1,0 +1,8 @@
+C:\Users\FLORES RIVERA\source\repos\prueba01\Unidad 1\tarea2U1\tarea2U1\obj\Debug\tarea2U1.csproj.AssemblyReference.cache
+C:\Users\FLORES RIVERA\source\repos\prueba01\Unidad 1\tarea2U1\tarea2U1\obj\Debug\tarea2U1.csproj.SuggestedBindingRedirects.cache
+C:\Users\FLORES RIVERA\source\repos\prueba01\Unidad 1\tarea2U1\tarea2U1\obj\Debug\tarea2U1.csproj.CoreCompileInputs.cache
+C:\Users\FLORES RIVERA\source\repos\prueba01\Unidad 1\tarea2U1\tarea2U1\bin\Debug\tarea2U1.exe.config
+C:\Users\FLORES RIVERA\source\repos\prueba01\Unidad 1\tarea2U1\tarea2U1\bin\Debug\tarea2U1.exe
+C:\Users\FLORES RIVERA\source\repos\prueba01\Unidad 1\tarea2U1\tarea2U1\bin\Debug\tarea2U1.pdb
+C:\Users\FLORES RIVERA\source\repos\prueba01\Unidad 1\tarea2U1\tarea2U1\obj\Debug\tarea2U1.exe
+C:\Users\FLORES RIVERA\source\repos\prueba01\Unidad 1\tarea2U1\tarea2U1\obj\Debug\tarea2U1.pdb
